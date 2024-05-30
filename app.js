@@ -4,7 +4,6 @@ const form = document.getElementById('form');
 const task = document.getElementById('task');
 const autor = document.getElementById('autor');
 const list = document.getElementById('list');
-const listContainer = document.getElementById('listContainer');
 
 let taskValue = '';
 let autorValue = '';
